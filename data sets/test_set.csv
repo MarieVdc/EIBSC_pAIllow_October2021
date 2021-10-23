@@ -1,0 +1,101 @@
+TotNumActis,TotIntScore,TotDuration,LastSleep,StreeLevel,NextDayType,OccLevel
+4,2.0,420,495,7,Weekend,Relax
+4,3.5,630,375,4,Weekend,Neutral
+7,5.5,810,630,4,Weekend,Busy
+6,4.1,600,495,6,Holiday,Busy
+3,2.1,240,465,7,Holiday,Relax
+4,2.1,420,630,5,Workday,Neutral
+4,3.8,780,465,5,Workday,Neutral
+5,4.2,750,435,9,Exam/study day,Busy
+6,2.8,420,420,5,Weekend,Neutral
+1,1.0,60,555,6,Exam/study day,Relax
+4,3.4,570,360,7,Weekend,Neutral
+10,6.3,810,435,6,Workday,Busy
+1,0.7,60,165,6,Holiday,Relax
+4,1.9,630,420,9,Holiday,Neutral
+3,2.5,210,420,6,Workday,Relax
+3,2.5,270,390,6,Weekend,Relax
+6,5.0,750,570,6,Holiday,Busy
+3,2.1,300,195,6,Weekend,Neutral
+6,5.9,780,435,6,Workday,Busy
+2,1.5,150,420,5,Workday,Relax
+7,5.4,630,420,7,Workday,Busy
+5,3.1,570,510,6,Holiday,Neutral
+3,1.1,270,495,6,Exam/study day,Relax
+1,0.9,90,540,7,Workday,Relax
+5,3.8,510,420,5,Holiday,Relax
+7,2.9,750,480,6,Holiday,Neutral
+3,2.3,600,210,6,Workday,Neutral
+4,3.7,240,570,1,Workday,Relax
+5,4.0,510,465,1,Holiday,Relax
+6,4.3,570,450,6,Exam/study day,Busy
+7,5.3,570,525,7,Holiday,Busy
+6,5.1,510,450,5,Holiday,Busy
+4,2.4,960,450,5,Holiday,Relax
+5,3.8,360,450,6,Weekend,Neutral
+5,2.9,540,450,6,Workday,Neutral
+4,3.5,390,135,6,Workday,Busy
+7,5.1,570,480,8,Workday,Busy
+3,1.9,510,495,10,Workday,Neutral
+7,5.2,570,630,9,Holiday,Busy
+3,1.9,270,510,3,Weekend,Relax
+3,1.7,390,285,6,Workday,Neutral
+6,4.5,690,435,7,Workday,Busy
+3,1.3,630,480,5,Exam/study day,Relax
+5,3.6,690,465,7,Workday,Neutral
+7,4.9,720,375,6,Workday,Busy
+6,3.6,630,465,9,Weekend,Busy
+6,4.3,450,525,5,Weekend,Busy
+5,3.5,570,495,6,Workday,Neutral
+3,1.5,270,510,6,Workday,Relax
+4,2.8,840,420,5,Exam/study day,Busy
+1,0.1,120,405,6,Workday,Relax
+8,6.9,630,465,7,Weekend,Busy
+3,1.6,300,390,4,Weekend,Relax
+6,3.6,540,390,5,Exam/study day,Busy
+6,5.0,720,450,5,Workday,Busy
+4,2.1,330,315,6,Workday,Neutral
+4,2.9,690,450,5,Holiday,Relax
+3,2.3,360,600,5,Exam/study day,Relax
+4,3.0,1020,630,6,Workday,Busy
+3,1.4,360,465,4,Exam/study day,Relax
+1,0.4,120,495,6,Weekend,Relax
+6,4.8,750,435,8,Exam/study day,Busy
+6,3.9,630,450,7,Holiday,Busy
+1,1.0,60,450,6,Workday,Relax
+7,5.0,750,435,7,Workday,Busy
+5,4.1,780,270,2,Exam/study day,Busy
+6,5.8,720,255,8,Workday,Busy
+4,1.9,390,300,7,Holiday,Neutral
+4,3.3,480,435,6,Workday,Neutral
+6,4.4,570,435,6,Weekend,Busy
+4,3.0,750,555,7,Workday,Neutral
+3,2.0,150,435,6,Weekend,Relax
+5,3.3,720,570,5,Exam/study day,Busy
+3,2.3,180,645,6,Workday,Relax
+5,2.5,600,465,2,Workday,Neutral
+5,3.7,630,360,5,Workday,Neutral
+3,2.3,180,525,9,Workday,Relax
+3,2.3,360,210,6,Weekend,Relax
+3,1.5,300,420,4,Weekend,Relax
+5,2.9,510,450,5,Weekend,Neutral
+3,1.2,450,285,8,Weekend,Neutral
+3,2.7,360,495,4,Weekend,Relax
+7,4.2,480,405,6,Workday,Busy
+3,2.5,300,540,7,Workday,Relax
+6,4.8,510,555,6,Workday,Busy
+4,3.9,390,180,7,Workday,Busy
+5,2.3,450,630,7,Workday,Relax
+6,4.1,630,510,7,Exam/study day,Busy
+4,3.6,510,630,8,Weekend,Neutral
+5,2.6,630,480,5,Workday,Neutral
+1,0.8,90,465,7,Exam/study day,Relax
+5,3.5,750,480,6,Exam/study day,Neutral
+5,2.9,600,510,8,Weekend,Neutral
+4,3.6,900,540,5,Workday,Busy
+5,4.0,540,465,6,Weekend,Neutral
+3,2.1,300,495,3,Weekend,Relax
+5,3.4,870,420,7,Workday,Busy
+4,2.9,720,480,7,Workday,Neutral
+6,5.7,600,390,7,Workday,Busy
+3,2.5,300,585,5,Weekend,Relax
