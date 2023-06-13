@@ -1,9 +1,15 @@
 # EIBSC_pAIllow_October2021
 
-## Explainable AI for the end user
-#### Internship at dataroots February 2023 - May 2023
+# Explainable AI for the end user
+## Internship at dataroots February - May 2023
 
-This project creates a dashboard meant to render an AI system more understandable for non-technical end-users. \
+#### Author: Marie Vandecavey
+#### Coaches: Fisher Kuan & Chiel Mues
+#### Company supervisors: Hans Tierens & Virginie Marelli
+### Promotor: Prof. dr. ir. Hendrik Blockeel
+#### University: KU Leuven
+
+This project creates a dashboard meant to render an AI system more understandable for non-technical end-users. \\
 The AI application selected here is Natural Language Processing (NLP) and more specifically Alpaca LoRA, the low rank adaptation of the pre-trained LLaMA model developed by Meta AI (https://ai.facebook.com/blog/large-language-model-llama-meta-ai/ and https://arxiv.org/abs/2302.13971). This pre-trained model was accessed through https://huggingface.co/decapoda-research/llama-7b-hf.\
 Alpaca LoRA is presented by Eric J. Wang: https://github.com/tloen/alpaca-lora. It is an adapted version of Stanford Alpaca (https://github.com/tatsu-lab/stanford_alpaca and https://crfm.stanford.edu/2023/03/13/alpaca.html) but is less cumbersome to fine-tune. \
 The fine-tuning for this project was done based on 
