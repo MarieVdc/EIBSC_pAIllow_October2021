@@ -3,10 +3,10 @@
 # Explainable AI for the end user
 ## Internship at dataroots February - May 2023
 
-**Author: Marie Vandecavey**
-**Coaches: Fisher Kuan & Chiel Mues**
-**Company supervisors: Hans Tierens & Virginie Marelli**
-**Promotor: Prof. dr. ir. Hendrik Blockeel**
+**Author: Marie Vandecavey** <br>
+**Coaches: Fisher Kuan & Chiel Mues** <br>
+**Company supervisors: Hans Tierens & Virginie Marelli** <br>
+**Promotor: Prof. dr. ir. Hendrik Blockeel** <br>
 **University: KU Leuven**
 
 This project creates a dashboard meant to render an AI system more understandable for non-technical end-users.
